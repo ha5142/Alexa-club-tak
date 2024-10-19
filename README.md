@@ -1,7 +1,7 @@
 # Alexa Developers SRM Website
 
 ## Overview
-This is the official website for **Alexa Developers SRM**, designed to serve as a hub for developers interested in Alexa technologies. Built using Vite, React, and Tailwind CSS, it features sections like Events, Domains, About Us, and Social Media links. The website is fully responsive and deployed using Netlify, ensuring a seamless experience across devices. [**Check it out here!**](https://your-netlify-link.netlify.app)
+This is the official website for **Alexa Developers SRM**, designed to serve as a hub for developers interested in Alexa technologies. Built using Vite, React, and Tailwind CSS, it features sections like Events, Domains, About Us, and Social Media links.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/krishnasinghtech/Alexa-Developers-SRM.git
+    git clone https://github.com/ha5142/Alexa-club-tak.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -30,8 +30,6 @@ To run this project locally, follow these steps:
     npm run dev
     ```
 
-## Usage
-Once the project is set up locally, open `http://localhost:3000` in your browser to view the website. You can modify the components in the `src` folder and see live changes. Explore sections like Events for detailed listings and Domains for a comprehensive overview.
 
 ## Features
 - Responsive design for all devices
